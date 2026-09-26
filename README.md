@@ -1,0 +1,1 @@
+# prj-woo-plugin-quick-price-edit
